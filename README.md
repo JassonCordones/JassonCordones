@@ -1,5 +1,9 @@
 ## Hi there 👋
+![Metrics](https://metrics.lecoq.io/jassoncordones)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jassoncordones&layout=compact)
+
+![Profile views counter](https://komarev.com/ghpvc/?username=jassoncordones&&style=flat-square)  
 <!--
 **JassonCordones/JassonCordones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
