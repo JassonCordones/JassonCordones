@@ -1,20 +1,41 @@
-## Hi there 👋
-![Metrics](https://metrics.lecoq.io/jassoncordones)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=JassonCordones&color=0a7ca5)
+![GitHub followers](https://img.shields.io/github/followers/JassonCordones?color=4caf50&style=flat-square)
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103&colorB=795548)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%40jassoncordones-2867B2?logo=linkedin&logoColor=white)
+
+
+# Jasson Cordones
+
+**Industrial Engineer | Project Manager**  
+[LinkedIn: @jassoncordones](https://www.linkedin.com/in/jassoncordones)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jassoncordones&layout=compact)
+---
 
-![Profile views counter](https://komarev.com/ghpvc/?username=jassoncordones&&style=flat-square)  
-<!--
-**JassonCordones/JassonCordones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
 
-Here are some ideas to get you started:
+Hi! I'm Jasson, an industrial engineer and project manager passionate about technology and continuous improvement. My interests span scripting, architecting systems, web development, web scraping, and open source collaboration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Interests
+
+- Scripting & Automation
+- System Architecture
+- Web Development
+- Web Scraping
+- Open Source Contribution
+
+## 🎮 Hobbies & Interests
+
+- Roguelike games enthusiast
+- Watching YouTube videos (tech, games, and learning)
+- Contributing to open source projects
+
+## 🌐 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/jassoncordones)
+
+---
+
+> “Always learning, always building.”
